@@ -44,8 +44,8 @@ The goal of this repository is to:
 | # | Model | Type | Status |
 |---|---|---|---|
 | 01 | Linear Regression | Supervised Learning | ✅ Completed |
-| 02 | Multiple Linear Regression | Supervised Learning | 🔄 Learning |
-| 03 | Logistic Regression | Supervised Learning | ⏳ Upcoming |
+| 02 | Multiple Linear Regression | Supervised Learning | ✅ Completed |
+| 03 | Logistic Regression | Supervised Learning | 🔄 Learning |
 | 04 | K-Nearest Neighbors (KNN) | Supervised Learning | ⏳ Upcoming |
 | 05 | Decision Tree | Supervised Learning | ⏳ Upcoming |
 | 06 | Random Forest | Supervised Learning | ⏳ Upcoming |
